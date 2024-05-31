@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=palette_converter
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=Palette to gpl converter
+Comment=My first plugin made with lots of love 
